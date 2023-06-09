@@ -17,9 +17,12 @@ let btn6 = document.getElementById("btn6");
 btn1.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину1!");
+        item = "1";
+        tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Вы выбрали товар 1!");
+        tg.MainButton.setText("Добавить в корзину1!");
         item = "1";
         tg.MainButton.show();
     }
@@ -30,7 +33,7 @@ btn2.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else {
-        tg.MainButton.setText("Вы выбрали товар 2!");
+        tg.MainButton.setText("Добавить в корзину2!");
         item = "2";
         tg.MainButton.show();
     }
@@ -41,7 +44,7 @@ btn3.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else {
-        tg.MainButton.setText("Вы выбрали товар 3!");
+        tg.MainButton.setText("Добавить в корзину3!");
         item = "3";
         tg.MainButton.show();
     }
@@ -52,7 +55,7 @@ btn4.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else {
-        tg.MainButton.setText("Вы выбрали товар 4!");
+        tg.MainButton.setText("Добавить в корзину4!");
         item = "4";
         tg.MainButton.show();
     }
@@ -63,7 +66,7 @@ btn5.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else {
-        tg.MainButton.setText("Вы выбрали товар 5!");
+        tg.MainButton.setText("Добавить в корзину5!");
         item = "5";
         tg.MainButton.show();
     }
@@ -74,7 +77,7 @@ btn6.addEventListener("click", function(){
         tg.MainButton.hide();
     }
     else {
-        tg.MainButton.setText("Вы выбрали товар 6!");
+        tg.MainButton.setText("Добавить в корзину6!");
         item = "6";
         tg.MainButton.show();
     }
