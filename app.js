@@ -45,6 +45,9 @@ btn2.addEventListener("click", function(){
 btn3.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину3!");
+        item = "3";
+        tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину3!");
@@ -56,6 +59,9 @@ btn3.addEventListener("click", function(){
 btn4.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину4!");
+        item = "4";
+        tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину4!");
@@ -67,6 +73,9 @@ btn4.addEventListener("click", function(){
 btn5.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину5!");
+        item = "5";
+        tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину5!");
@@ -78,6 +87,9 @@ btn5.addEventListener("click", function(){
 btn6.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину6!");
+        item = "6";
+        tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину6!");
