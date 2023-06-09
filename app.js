@@ -31,6 +31,9 @@ btn1.addEventListener("click", function(){
 btn2.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину2!");
+        item = "2";
+        tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину2!");
