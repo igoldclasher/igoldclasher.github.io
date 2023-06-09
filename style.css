@@ -34,7 +34,7 @@ body {
     text-transform: uppercase;
     font-weight: 700;
 
-    trasition: background .2s linear;
+    transition: background .2s linear;
 }
 
 .btn:hover {
