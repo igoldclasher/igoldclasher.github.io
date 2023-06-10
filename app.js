@@ -36,12 +36,12 @@ btn1.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "Charon Baby plus|Максимальная мощность: 35 Вт|Объем жидкости: 3.5 мл|1750₽";
+        item = "1";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "Charon Baby plus|Максимальная мощность: 35 Вт|Объем жидкости: 3.5 мл|1750₽";
+        item = "1";
         tg.MainButton.show();
     }
 });
