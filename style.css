@@ -51,7 +51,7 @@ z {
 .Rincoe {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 250px;
+    grid-template-rows: 270px;
 }
 
 .Geekvape {
@@ -63,13 +63,13 @@ z {
 .Жидкости {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 350px;
+    grid-template-rows: 360px;
 }
 
 .Электронки {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 350px;
+    grid-template-rows: 360px;
 }
 
 p {
@@ -97,7 +97,7 @@ b {
     font-size: 18px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 6%;
+    margin-top: 10%;
     margin-bottom: 0;
 
 }

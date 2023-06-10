@@ -36,12 +36,12 @@ btn1.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "1";
+        item = "Smoant Charon Baby plus|1750₽|Максимальная мощность: 35 Вт|Объем жидкости: 3.5 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "1";
+        item = "Smoant Charon Baby plus|1750₽|Максимальная мощность: 35 Вт|Объем жидкости: 3.5 мл";
         tg.MainButton.show();
     }
 });
@@ -50,12 +50,12 @@ btn2.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "2";
+        item = "Smoant Pasito 2|2100₽|Максимальная мощность: 80 Вт|Объем жидкости: 6 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "2";
+        item = "Smoant Pasito 2|2100₽|Максимальная мощность: 80 Вт|Объем жидкости: 6 мл";
         tg.MainButton.show();
     }
 });
@@ -64,12 +64,12 @@ btn3.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "3";
+        item = "Smoant Santi|1800₽|Максимальная мощность: 40 Вт|Объем жидкости: 3.5 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "3";
+        item = "Smoant Santi|1800₽|Максимальная мощность: 40 Вт|Объем жидкости: 3.5 мл";
         tg.MainButton.show();
     }
 });
@@ -78,12 +78,12 @@ btn4.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "4";
+        item = "Smoant Vikii|800₽|Максимальная мощность: 12 Вт|Объем жидкости: 2 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "4";
+        item = "Smoant Vikii|800₽|Максимальная мощность: 12 Вт|Объем жидкости: 2 мл";
         tg.MainButton.show();
     }
 });
@@ -92,12 +92,12 @@ btn5.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "5";
+        item = "Vaporesso Gen PT60|2450₽|Максимальная мощность: 60 Вт|Объем жидкости: 4.5 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "5";
+        item = "Vaporesso Gen PT60|2450₽|Максимальная мощность: 60 Вт|Объем жидкости: 4.5 мл";
         tg.MainButton.show();
     }
 });
@@ -106,12 +106,12 @@ btn6.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "6";
+        item = "Vaporesso XROS 3 MINI|1450₽|Максимальная мощность: 20 Вт|Объем жидкости: 2 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "6";
+        item = "Vaporesso XROS 3 MINI|1450₽|Максимальная мощность: 20 Вт|Объем жидкости: 2 мл";
         tg.MainButton.show();
     }
 });
@@ -120,12 +120,12 @@ btn7.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "7";
+        item = "Rincoe Jellybox mini|3300₽|Максимальная мощность: 80 Вт|Объем жидкости: 4.8 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "7";
+        item = "Rincoe Jellybox mini|3300₽|Максимальная мощность: 80 Вт|Объем жидкости: 4.8 мл";
         tg.MainButton.show();
     }
 });
@@ -134,12 +134,12 @@ btn8.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "8";
+        item = "Rincoe Manto Aio Plus|2250₽|Максимальная мощность: 80 Вт|Объем жидкости: 3 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "8";
+        item = "Rincoe Manto Aio Plus|2250₽|Максимальная мощность: 80 Вт|Объем жидкости: 3 мл";
         tg.MainButton.show();
     }
 });
@@ -148,12 +148,12 @@ btn9.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "9";
+        item = "Rincoe Jellybox nano X|1650₽|Максимальная мощность: 30 Вт|Объем жидкости: 2.8 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "9";
+        item = "Rincoe Jellybox nano X|1650₽|Максимальная мощность: 30 Вт|Объем жидкости: 2.8 мл";
         tg.MainButton.show();
     }
 });
@@ -162,12 +162,12 @@ btn10.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "10";
+        item = "Rincoe Jellybox XS|1850₽|Максимальная мощность: 30 Вт|Объем жидкости: 2 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "10";
+        item = "Rincoe Jellybox XS|1850₽|Максимальная мощность: 30 Вт|Объем жидкости: 2 мл";
         tg.MainButton.show();
     }
 });
@@ -176,12 +176,12 @@ btn11.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "11";
+        item = "Geekvape AEGIS B60|2900₽|Максимальная мощность: 60 Вт|Объем жидкости: 5 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "11";
+        item = "Geekvape AEGIS B60|2900₽|Максимальная мощность: 60 Вт|Объем жидкости: 5 мл";
         tg.MainButton.show();
     }
 });
@@ -190,26 +190,12 @@ btn12.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "12";
+        item = "Geekvape Aegis Nano|1950₽|Максимальная мощность: 30 Вт|Объем жидкости: 2 мл";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "12";
-        tg.MainButton.show();
-    }
-});
-
-btn12.addEventListener("click", function(){
-    if (tg.MainButton.isVisible) {
-        tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
-        item = "12";
-        tg.MainButton.show();
-    }
-    else {
-        tg.MainButton.setText("Добавить в корзину!");
-        item = "12";
+        item = "Geekvape Aegis Nano|1950₽|Максимальная мощность: 30 Вт|Объем жидкости: 2 мл";
         tg.MainButton.show();
     }
 });
@@ -218,12 +204,12 @@ btn13.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "13";
+        item = "Elfbar 5000|750₽|ВКУС|Лимон Мята|Тропическая ягода|Красный мохито|Кислое яблоко|Клубничный арбуз";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "13";
+        item = "Elfbar 5000|750₽|ВКУС|Лимон Мята|Тропическая ягода|Красный мохито|Кислое яблоко|Клубничный арбуз";
         tg.MainButton.show();
     }
 });
@@ -232,12 +218,12 @@ btn14.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "14";
+        item = "Lost Mary 5000|750₽|ВКУС|Клубничное мороженое|Арбузный лед|Клюквенная сода|Клубника черника вишня|Красный яблочный лед";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "14";
+        item = "Lost Mary 5000|750₽|ВКУС|Клубничное мороженое|Арбузный лед|Клюквенная сода|Клубника черника вишня|Красный яблочный лед";
         tg.MainButton.show();
     }
 });
@@ -246,12 +232,12 @@ btn15.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "15";
+        item = "Hello bar 2000|700₽|ВКУС|Кремовый табак|Роза|Пиво|Коктейль B52|Коньяк ХО";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "15";
+        item = "Hello bar 2000|700₽|ВКУС|Кремовый табак|Роза|Пиво|Коктейль B52|Коньяк ХО";
         tg.MainButton.show();
     }
 });
@@ -260,12 +246,12 @@ btn16.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "16";
+        item = "Laiska 1200|350₽|Черника лимон|Банан|Кислое яблоко|Виноград|Ананас";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "16";
+        item = "Laiska 1200|350₽|Черника лимон|Банан|Кислое яблоко|Виноград|Ананас";
         tg.MainButton.show();
     }
 });
@@ -274,12 +260,12 @@ btn17.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "17";
+        item = "Energy 5000|850₽|Апельсиновая сода|Мармедалдный мишка|Виноградный лед|Энергетик|Прохладная мята";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "17";
+        item = "Energy 5000|850₽|Апельсиновая сода|Мармедалдный мишка|Виноградный лед|Энергетик|Прохладная мята";
         tg.MainButton.show();
     }
 });
@@ -288,12 +274,12 @@ btn18.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "18";
+        item = "Qvant 1800 element|500₽|Манго|Арбуз|Черника|Ананас|Яблочный сок";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "18";
+        item = "Qvant 1800 element|500₽|Манго|Арбуз|Черника|Ананас|Яблочный сок";
         tg.MainButton.show();
     }
 });
@@ -302,12 +288,12 @@ btn19.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "19";
+        item = "Brusko 2%|320₽|Крепость: 2%, объем: 30 мл|Банан|Яблоко|Виноградные леденцы|Ванильный табак|Ментол";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "19";
+        item = "Brusko 2%|320₽|Крепость: 2%, объем: 30 мл|Банан|Яблоко|Виноградные леденцы|Ванильный табак|Ментол";
         tg.MainButton.show();
     }
 });
@@ -316,12 +302,12 @@ btn20.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "20";
+        item = "Dabbler 2%|350₽|Крепость: 2%, объем: 30 мл|Манго|Черешня|Яблоко|Энергетик|Дыня с ананасом";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "20";
+        item = "Dabbler 2%|350₽|Крепость: 2%, объем: 30 мл|Манго|Черешня|Яблоко|Энергетик|Дыня с ананасом";
         tg.MainButton.show();
     }
 });
@@ -330,12 +316,12 @@ btn21.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "21";
+        item = "Мишка 5%|300₽|Крепость: 5%, объем: 30 мл|Хвоя ягоды|Смородина калина|Смородина лимон|Яблоко энергетик|Дыня арбуз огурец";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "21";
+        item = "Мишка 5%|300₽|Крепость: 5%, объем: 30 мл|Хвоя ягоды|Смородина калина|Смородина лимон|Яблоко энергетик|Дыня арбуз огурец";
         tg.MainButton.show();
     }
 });
@@ -344,12 +330,12 @@ btn22.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
         tg.MainButton.setText("Добавить в корзину!");
-        item = "22";
+        item = "Husky 5%|300₽|Крепость: 5%, объем: 30 мл|Виноградный сок|Морозная дыня|Клубнично-мятный|Мятный арбуз|Апельсин ананас яблоко";
         tg.MainButton.show();
     }
     else {
         tg.MainButton.setText("Добавить в корзину!");
-        item = "22";
+        item = "Husky 5%|300₽|Крепость: 5%, объем: 30 мл|Виноградный сок|Морозная дыня|Клубнично-мятный|Мятный арбуз|Апельсин ананас яблоко";
         tg.MainButton.show();
     }
 });
