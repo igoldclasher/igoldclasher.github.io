@@ -29,24 +29,19 @@ let btn19 = document.getElementById("btn19");
 let btn20 = document.getElementById("btn20");
 let btn21 = document.getElementById("btn21");
 let btn22 = document.getElementById("btn22");
-let btn23 = document.getElementById("btn23");
-let btn24 = document.getElementById("btn24");
-let btn25 = document.getElementById("btn25");
-let btn26 = document.getElementById("btn26");
-let btn27 = document.getElementById("btn27");
-let btn28 = document.getElementById("btn28");
+
 
 
 btn1.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину1!");
-        item = "1";
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "Charon Baby plus|Максимальная мощность: 35 Вт|Объем жидкости: 3.5 мл|1750₽";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину1!");
-        item = "1";
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "Charon Baby plus|Максимальная мощность: 35 Вт|Объем жидкости: 3.5 мл|1750₽";
         tg.MainButton.show();
     }
 });
@@ -54,12 +49,12 @@ btn1.addEventListener("click", function(){
 btn2.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину2!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "2";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину2!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "2";
         tg.MainButton.show();
     }
@@ -68,12 +63,12 @@ btn2.addEventListener("click", function(){
 btn3.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину3!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "3";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину3!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "3";
         tg.MainButton.show();
     }
@@ -82,12 +77,12 @@ btn3.addEventListener("click", function(){
 btn4.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину4!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "4";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину4!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "4";
         tg.MainButton.show();
     }
@@ -96,12 +91,12 @@ btn4.addEventListener("click", function(){
 btn5.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину5!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "5";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину5!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "5";
         tg.MainButton.show();
     }
@@ -110,16 +105,257 @@ btn5.addEventListener("click", function(){
 btn6.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину6!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "6";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину6!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "6";
         tg.MainButton.show();
     }
 });
+
+btn7.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "7";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "7";
+        tg.MainButton.show();
+    }
+});
+
+btn8.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "8";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "8";
+        tg.MainButton.show();
+    }
+});
+
+btn9.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "9";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "9";
+        tg.MainButton.show();
+    }
+});
+
+btn10.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "10";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "10";
+        tg.MainButton.show();
+    }
+});
+
+btn11.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "11";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "11";
+        tg.MainButton.show();
+    }
+});
+
+btn12.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "12";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "12";
+        tg.MainButton.show();
+    }
+});
+
+btn12.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "12";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "12";
+        tg.MainButton.show();
+    }
+});
+
+btn13.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "13";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "13";
+        tg.MainButton.show();
+    }
+});
+
+btn14.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "14";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "14";
+        tg.MainButton.show();
+    }
+});
+
+btn15.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "15";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "15";
+        tg.MainButton.show();
+    }
+});
+
+btn16.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "16";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "16";
+        tg.MainButton.show();
+    }
+});
+
+btn17.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "17";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "17";
+        tg.MainButton.show();
+    }
+});
+
+btn18.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "18";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "18";
+        tg.MainButton.show();
+    }
+});
+
+btn19.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "19";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "19";
+        tg.MainButton.show();
+    }
+});
+
+btn20.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "20";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "20";
+        tg.MainButton.show();
+    }
+});
+
+btn21.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "21";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "21";
+        tg.MainButton.show();
+    }
+});
+
+btn22.addEventListener("click", function(){
+    if (tg.MainButton.isVisible) {
+        tg.MainButton.hide();
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "22";
+        tg.MainButton.show();
+    }
+    else {
+        tg.MainButton.setText("Добавить в корзину!");
+        item = "22";
+        tg.MainButton.show();
+    }
+});
+
+
+
 
 
 Telegram.WebApp.onEvent("mainButtonClicked", function(){
