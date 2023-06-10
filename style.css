@@ -2,8 +2,8 @@ body {
     margin: 0;
     padding: 0;
     font-size: 18px;
-    color: var(--th-theme-text-color);
-    background: var(--th-theme-bg-color);
+    color: var(--tg-theme-text-color);
+    background: var(--tg-theme-bg-color);
 }
 
 .container {
