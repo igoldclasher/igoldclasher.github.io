@@ -26,7 +26,7 @@ body {
 
 .btn {
     display: inline-block;
-    padding: 10px 60px;
+ отступ: 10px 30px;
     border: none;
     background: rgb(248, 168, 24);
     border-radius: 10px;
