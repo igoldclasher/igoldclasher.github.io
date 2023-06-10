@@ -22,7 +22,7 @@ btn1.addEventListener("click", function(){
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину1!");
+        tg.MainButton.setText("Добавить в корзину!");
         item = "Smoant Pasito 2 Pod Mod Kit";
         tg.MainButton.show();
     }
