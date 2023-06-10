@@ -203,12 +203,12 @@ btn12.addEventListener("click", function(){
 btn13.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Elfbar 5000|750₽|ВКУС|Лимон Мята|Тропическая ягода|Красный мохито|Кислое яблоко|Клубничный арбуз";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Elfbar 5000|750₽|ВКУС|Лимон Мята|Тропическая ягода|Красный мохито|Кислое яблоко|Клубничный арбуз";
         tg.MainButton.show();
     }
@@ -217,12 +217,12 @@ btn13.addEventListener("click", function(){
 btn14.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Lost Mary 5000|750₽|ВКУС|Клубничное мороженое|Арбузный лед|Клюквенная сода|Клубника черника вишня|Красный яблочный лед";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Lost Mary 5000|750₽|ВКУС|Клубничное мороженое|Арбузный лед|Клюквенная сода|Клубника черника вишня|Красный яблочный лед";
         tg.MainButton.show();
     }
@@ -231,12 +231,12 @@ btn14.addEventListener("click", function(){
 btn15.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Hello bar 2000|700₽|ВКУС|Кремовый табак|Роза|Пиво|Коктейль B52|Коньяк ХО";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Hello bar 2000|700₽|ВКУС|Кремовый табак|Роза|Пиво|Коктейль B52|Коньяк ХО";
         tg.MainButton.show();
     }
@@ -245,12 +245,12 @@ btn15.addEventListener("click", function(){
 btn16.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Laiska 1200|350₽|Черника лимон|Банан|Кислое яблоко|Виноград|Ананас";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Laiska 1200|350₽|Черника лимон|Банан|Кислое яблоко|Виноград|Ананас";
         tg.MainButton.show();
     }
@@ -259,12 +259,12 @@ btn16.addEventListener("click", function(){
 btn17.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Energy 5000|850₽|Апельсиновая сода|Мармедалдный мишка|Виноградный лед|Энергетик|Прохладная мята";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Energy 5000|850₽|Апельсиновая сода|Мармедалдный мишка|Виноградный лед|Энергетик|Прохладная мята";
         tg.MainButton.show();
     }
@@ -273,12 +273,12 @@ btn17.addEventListener("click", function(){
 btn18.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Qvant 1800 element|500₽|Манго|Арбуз|Черника|Ананас|Яблочный сок";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Qvant 1800 element|500₽|Манго|Арбуз|Черника|Ананас|Яблочный сок";
         tg.MainButton.show();
     }
@@ -287,12 +287,12 @@ btn18.addEventListener("click", function(){
 btn19.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Brusko 2%|320₽|Крепость: 2%, объем: 30 мл|Банан|Яблоко|Виноградные леденцы|Ванильный табак|Ментол";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Brusko 2%|320₽|Крепость: 2%, объем: 30 мл|Банан|Яблоко|Виноградные леденцы|Ванильный табак|Ментол";
         tg.MainButton.show();
     }
@@ -301,12 +301,12 @@ btn19.addEventListener("click", function(){
 btn20.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Dabbler 2%|350₽|Крепость: 2%, объем: 30 мл|Манго|Черешня|Яблоко|Энергетик|Дыня с ананасом";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Dabbler 2%|350₽|Крепость: 2%, объем: 30 мл|Манго|Черешня|Яблоко|Энергетик|Дыня с ананасом";
         tg.MainButton.show();
     }
@@ -315,12 +315,12 @@ btn20.addEventListener("click", function(){
 btn21.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Мишка 5%|300₽|Крепость: 5%, объем: 30 мл|Хвоя ягоды|Смородина калина|Смородина лимон|Яблоко энергетик|Дыня арбуз огурец";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Мишка 5%|300₽|Крепость: 5%, объем: 30 мл|Хвоя ягоды|Смородина калина|Смородина лимон|Яблоко энергетик|Дыня арбуз огурец";
         tg.MainButton.show();
     }
@@ -329,12 +329,12 @@ btn21.addEventListener("click", function(){
 btn22.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Husky 5%|300₽|Крепость: 5%, объем: 30 мл|Виноградный сок|Морозная дыня|Клубнично-мятный|Мятный арбуз|Апельсин ананас яблоко";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
+        tg.MainButton.setText("Выбрать вкус");
         item = "Husky 5%|300₽|Крепость: 5%, объем: 30 мл|Виноградный сок|Морозная дыня|Клубнично-мятный|Мятный арбуз|Апельсин ананас яблоко";
         tg.MainButton.show();
     }
