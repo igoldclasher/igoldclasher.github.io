@@ -17,13 +17,13 @@ let btn6 = document.getElementById("btn6");
 btn1.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
-        tg.MainButton.setText("Добавить в корзину!");
-        item = "Smoant Pasito 2 Pod Mod Kit";
+        tg.MainButton.setText("Добавить в корзину1!");
+        item = "1";
         tg.MainButton.show();
     }
     else {
-        tg.MainButton.setText("Добавить в корзину!");
-        item = "Smoant Pasito 2 Pod Mod Kit";
+        tg.MainButton.setText("Добавить в корзину1!");
+        item = "1";
         tg.MainButton.show();
     }
 });

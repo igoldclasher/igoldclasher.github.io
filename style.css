@@ -10,10 +10,77 @@ body {
     max-width: 390px;
 }
 
-.inner {
-    display: grid;
+r {
+    display: block;
+    grid-template-rows: 20px;
+    text-align: center;
+    font-weight: 1000;
+    font-size: 28px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9%;
+    margin-bottom: 3%;
+}
+
+z {
+    display: block;
+    grid-template-rows: 20px;
+    text-align: center;
+    font-weight: 1000;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9%;
+    margin-bottom: 3%;
+}
+
+.Smoant {
+    display: inline-grid;
     grid-template-columns: 1fr 1fr;
- сетка-шаблон-строки: 200px 200px 200px;
+
+
+
+}
+
+.Vaporesso {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 250px;
+}
+
+.Rincoe {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 250px;
+}
+
+.Geekvape {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 250px;
+}
+
+p {
+    margin-left: 20px;
+    font-weight: 700;
+    text-align: center;
+    font-size: 110%;
+    max-width: 85%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+d {
+    font-size: 70%;
+    max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px%;
+}
+
+b {
+    font-weight: 700;
+    text-align: center;
+    font-size: 18px;
 }
 
 .img {
@@ -26,10 +93,10 @@ body {
 
 .btn {
     display: inline-block;
- отступ: 10px 30px;
+    padding: 8px 20px;
     border: none;
     background: rgb(248, 168, 24);
-    border-radius: 10px;
+    border-radius: 20px;
     color: #fff;
     text-transform: uppercase;
     font-weight: 700;
