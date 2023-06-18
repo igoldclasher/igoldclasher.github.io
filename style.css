@@ -37,6 +37,7 @@ z {
 .Smoant {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: 290px;
 
 
 
@@ -45,31 +46,31 @@ z {
 .Vaporesso {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 250px;
+    grid-template-rows: 290px;
 }
 
 .Rincoe {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 270px;
+    grid-template-rows: 290px;
 }
 
 .Geekvape {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 250px;
+    grid-template-rows: 290px;
 }
 
 .Жидкости {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 360px;
+    grid-template-rows: 370px;
 }
 
 .Электронки {
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 360px;
+    grid-template-rows: 380px;
 }
 
 p {
@@ -97,7 +98,7 @@ b {
     font-size: 18px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10%;
+    margin-top: 8%;
     margin-bottom: 0;
 
 }
